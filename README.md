@@ -1,2 +1,1 @@
-# cg-raster
-Simple app for image processing.
+Practice work for Computer Graphics course (2018)
